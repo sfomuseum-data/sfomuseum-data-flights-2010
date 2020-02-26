@@ -1,0 +1,76 @@
+{
+  "id": 1578597469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2010-09-19~",
+    "edtf:inception": "2010-09-19T01:24:00",
+    "flysfo:airline": "DL",
+    "flysfo:date": "2010-09-19",
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL8828",
+    "flysfo:journey": "SFO-GPT",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,30.414913,-89.063941,37.617990",
+    "geom:latitude": 34.0164515,
+    "geom:longitude": -105.717442,
+    "iata:airline": "DL",
+    "icao:aircraft": "B753",
+    "icao:airline": "DAL",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289945,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102529835,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20100919-D-DAL-8828",
+    "sfomuseum:flight_number": [
+      "DL8828", 
+      "DAL8828"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      1159396337, 
+      102527513, 
+      102191575, 
+      85922583, 
+      85633793, 
+      102087579, 
+      1578597469, 
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1582744528,
+    "wof:geomhash": "6e2ee66fbe7b893a34f64ce8ec024a1d",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396337,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1578597469,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1578597469,
+    "wof:lastmodified": 1582744528,
+    "wof:name": "DAL8828 (SFO-GPT)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2010",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    30.414913, 
+    -89.063941, 
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-89.063941,30.414913]],"type":"MultiPoint"}
+}

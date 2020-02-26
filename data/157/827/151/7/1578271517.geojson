@@ -1,0 +1,76 @@
+{
+  "id": 1578271517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2010-02-05T12:45:02",
+    "edtf:inception": "2010-02-05~",
+    "flysfo:airline": "MT",
+    "flysfo:date": "2010-02-05",
+    "flysfo:event": "A",
+    "flysfo:flight_number": "MT44G",
+    "flysfo:journey": "LGW-SFO",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-0.183008,51.144421",
+    "geom:latitude": 44.3812055,
+    "geom:longitude": -61.2769755,
+    "iata:airline": "MT",
+    "icao:aircraft": "A332",
+    "icao:airline": "TCX",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289421,
+    "sfomuseum:airline_id": 1159286107,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102556713,
+    "sfomuseum:flight_id": "20100205-A-TCX-44G",
+    "sfomuseum:flight_number": [
+      "MT44G", 
+      "TCX44G"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      85633793, 
+      102087579, 
+      85922583, 
+      102527513, 
+      85688637, 
+      1159396337, 
+      102191575, 
+      1578271517
+    ],
+    "wof:country": "US",
+    "wof:created": 1582741512,
+    "wof:geomhash": "c335be0fa43a9077070566aea4c647e9",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396337,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1578271517,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1578271517,
+    "wof:lastmodified": 1582741512,
+    "wof:name": "TCX44G (LGW-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2010",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    37.61799, 
+    -0.183008, 
+    51.144421
+  ],
+  "geometry": {"coordinates":[[-0.183008,51.144421],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

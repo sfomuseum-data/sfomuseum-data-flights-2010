@@ -1,0 +1,76 @@
+{
+  "id": 1578522441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2010-07-28~",
+    "edtf:inception": "2010-07-28T21:54:09",
+    "flysfo:airline": "XP",
+    "flysfo:date": "2010-07-28",
+    "flysfo:event": "D",
+    "flysfo:flight_number": "XP512",
+    "flysfo:journey": "SFO-FHU",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,31.588499,-110.344002,37.617990",
+    "geom:latitude": 34.6032445,
+    "geom:longitude": -116.3574725,
+    "iata:airline": "XP",
+    "icao:aircraft": "B734",
+    "icao:airline": "CXP",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289859,
+    "sfomuseum:airline_id": 1159284117,
+    "sfomuseum:arrival_id": 102528951,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20100728-D-CXP-512",
+    "sfomuseum:flight_number": [
+      "XP512", 
+      "CXP512"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      1578522441, 
+      85922583, 
+      85688637, 
+      1159396337, 
+      102191575, 
+      102087579, 
+      102527513, 
+      85633793
+    ],
+    "wof:country": "US",
+    "wof:created": 1582743752,
+    "wof:geomhash": "05dfd569a318a6431fcfd370b877a4f9",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396337,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1578522441,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1578522441,
+    "wof:lastmodified": 1582743752,
+    "wof:name": "CXP512 (SFO-FHU)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2010",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    31.588499, 
+    -110.344002, 
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-110.344002,31.588499]],"type":"MultiPoint"}
+}
