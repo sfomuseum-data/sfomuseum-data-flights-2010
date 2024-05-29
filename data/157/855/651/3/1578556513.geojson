@@ -2,6 +2,10 @@
   "id": 1578556513,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-08-21",
+    "date:cessation_upper": "2010-08-21",
+    "date:inception_lower": "2010-08-01",
+    "date:inception_upper": "2010-08-31",
     "edtf:cessation": "2010-08-21T01:13:52",
     "edtf:inception": "2010-08-21~",
     "flysfo:airline": "KE",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20100821-A-KAL-213",
     "sfomuseum:flight_number": [
-      "KE213", 
+      "KE213",
       "KAL213"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      102087579, 
-      1159396337, 
-      102527513, 
-      1578556513, 
-      85922583, 
+      85688637,
+      102191575,
+      102087579,
+      1159396337,
+      102527513,
+      85922583,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578556513,
-    "wof:lastmodified": 1582744098,
+    "wof:lastmodified": 1717012318,
     "wof:name": "KAL213 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

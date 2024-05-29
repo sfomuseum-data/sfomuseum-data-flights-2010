@@ -2,6 +2,10 @@
   "id": 1578234261,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-01-07",
+    "date:cessation_upper": "2010-01-07",
+    "date:inception_lower": "2010-01-01",
+    "date:inception_upper": "2010-01-31",
     "edtf:cessation": "2010-01-07T08:47:05",
     "edtf:inception": "2010-01-07~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20100107-A-SWA-410",
     "sfomuseum:flight_number": [
-      "WN410", 
+      "WN410",
       "SWA410"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85688637, 
-      1159396337, 
-      85922583, 
-      1578234261
+      102087579,
+      102527513,
+      102191575,
+      85633793,
+      85688637,
+      1159396337,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1582741178,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578234261,
-    "wof:lastmodified": 1582741178,
+    "wof:lastmodified": 1717012291,
     "wof:name": "SWA410 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

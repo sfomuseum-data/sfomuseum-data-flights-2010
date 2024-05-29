@@ -2,6 +2,10 @@
   "id": 1578660985,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-11-03",
+    "date:cessation_upper": "2010-11-03",
+    "date:inception_lower": "2010-11-01",
+    "date:inception_upper": "2010-11-30",
     "edtf:cessation": "2010-11-03T16:02:56",
     "edtf:inception": "2010-11-03~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20101103-A-SWA-2116",
     "sfomuseum:flight_number": [
-      "WN2116", 
+      "WN2116",
       "SWA2116"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85688637, 
-      85633793, 
-      102087579, 
-      1578660985, 
-      85922583, 
-      102191575, 
+      1159396337,
+      85688637,
+      85633793,
+      102087579,
+      85922583,
+      102191575,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578660985,
-    "wof:lastmodified": 1582745189,
+    "wof:lastmodified": 1717012324,
     "wof:name": "SWA2116 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

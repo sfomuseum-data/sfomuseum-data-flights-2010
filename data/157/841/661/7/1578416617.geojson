@@ -2,6 +2,10 @@
   "id": 1578416617,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-05-16",
+    "date:cessation_upper": "2010-05-16",
+    "date:inception_lower": "2010-05-01",
+    "date:inception_upper": "2010-05-31",
     "edtf:cessation": "2010-05-16T12:41:42",
     "edtf:inception": "2010-05-16~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20100516-A-UAL-853C",
     "sfomuseum:flight_number": [
-      "UA853C", 
+      "UA853C",
       "UAL853C"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      1159396337, 
-      1578416617, 
-      85688637, 
-      85922583, 
-      102087579, 
+      102527513,
+      102191575,
+      1159396337,
+      85688637,
+      85922583,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578416617,
-    "wof:lastmodified": 1582742730,
+    "wof:lastmodified": 1717012308,
     "wof:name": "UAL853C (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

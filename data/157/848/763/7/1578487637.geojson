@@ -2,6 +2,10 @@
   "id": 1578487637,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-07-05",
+    "date:cessation_upper": "2010-07-05",
+    "date:inception_lower": "2010-07-01",
+    "date:inception_upper": "2010-07-31",
     "edtf:cessation": "2010-07-05T08:10:08",
     "edtf:inception": "2010-07-05~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20100705-A-DAL-1124",
     "sfomuseum:flight_number": [
-      "DL1124", 
+      "DL1124",
       "DAL1124"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1159396337, 
-      85688637, 
-      1578487637
+      85633793,
+      85922583,
+      102527513,
+      102191575,
+      102087579,
+      1159396337,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582743412,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578487637,
-    "wof:lastmodified": 1582743412,
+    "wof:lastmodified": 1717012312,
     "wof:name": "DAL1124 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578605849,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-09-24",
+    "date:cessation_upper": "2010-09-24",
+    "date:inception_lower": "2010-09-01",
+    "date:inception_upper": "2010-09-30",
     "edtf:cessation": "2010-09-24T22:56:15",
     "edtf:inception": "2010-09-24~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20100924-A-SWA-955",
     "sfomuseum:flight_number": [
-      "WN955", 
+      "WN955",
       "SWA955"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1578605849, 
-      102527513, 
-      102087579, 
-      85922583, 
-      1159396337, 
-      85633793, 
-      85688637, 
+      102527513,
+      102087579,
+      85922583,
+      1159396337,
+      85633793,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578605849,
-    "wof:lastmodified": 1582744614,
+    "wof:lastmodified": 1717012321,
     "wof:name": "SWA955 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

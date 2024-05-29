@@ -2,6 +2,10 @@
   "id": 1578423911,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-05-21",
+    "date:cessation_upper": "2010-05-21",
+    "date:inception_lower": "2010-05-01",
+    "date:inception_upper": "2010-05-31",
     "edtf:cessation": "2010-05-21T15:22:57",
     "edtf:inception": "2010-05-21~",
     "flysfo:airline": "G4",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532821,
     "sfomuseum:flight_id": "20100521-A-AAY-5211",
     "sfomuseum:flight_number": [
-      "G45211", 
+      "G45211",
       "AAY5211"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1578423911, 
-      85688637, 
-      102191575, 
-      102087579, 
-      85922583, 
-      1159396337, 
+      85633793,
+      85688637,
+      102191575,
+      102087579,
+      85922583,
+      1159396337,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578423911,
-    "wof:lastmodified": 1582742811,
+    "wof:lastmodified": 1717012306,
     "wof:name": "AAY5211 (IFP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.165451, 
-    -114.55516, 
+    -122.370943,
+    35.165451,
+    -114.55516,
     37.61799
   ],
   "geometry": {"coordinates":[[-114.55516,35.165451],[-122.370943,37.61799]],"type":"MultiPoint"}

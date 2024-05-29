@@ -2,6 +2,10 @@
   "id": 1578630301,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-10-12",
+    "date:cessation_upper": "2010-10-12",
+    "date:inception_lower": "2010-10-01",
+    "date:inception_upper": "2010-10-31",
     "edtf:cessation": "2010-10-12T14:09:07",
     "edtf:inception": "2010-10-12~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20101012-A-SWA-512",
     "sfomuseum:flight_number": [
-      "WN512", 
+      "WN512",
       "SWA512"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      85922583, 
-      1159396337, 
-      102191575, 
-      102527513, 
-      85633793, 
-      1578630301
+      85688637,
+      102087579,
+      85922583,
+      1159396337,
+      102191575,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582744866,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578630301,
-    "wof:lastmodified": 1582744866,
+    "wof:lastmodified": 1717012321,
     "wof:name": "SWA512 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578238735,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-01-10",
+    "date:cessation_upper": "2010-01-10",
+    "date:inception_lower": "2010-01-01",
+    "date:inception_upper": "2010-01-31",
     "edtf:cessation": "2010-01-10T14:23:37",
     "edtf:inception": "2010-01-10~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527529,
     "sfomuseum:flight_id": "20100110-A-AAL-1128",
     "sfomuseum:flight_number": [
-      "AA1128", 
+      "AA1128",
       "AAL1128"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1578238735, 
-      1159396337, 
-      102527513, 
-      85633793, 
-      85922583, 
+      102191575,
+      102087579,
+      1159396337,
+      102527513,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578238735,
-    "wof:lastmodified": 1582741218,
+    "wof:lastmodified": 1717012294,
     "wof:name": "AAL1128 (SJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.363728, 
-    -121.928755, 
+    -122.370943,
+    37.363728,
+    -121.928755,
     37.61799
   ],
   "geometry": {"coordinates":[[-121.928755,37.363728],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578467087,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-06-01",
+    "date:cessation_upper": "2010-06-30",
+    "date:inception_lower": "2010-06-20",
+    "date:inception_upper": "2010-06-20",
     "edtf:cessation": "2010-06-20~",
     "edtf:inception": "2010-06-20T20:30:20",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100620-D-SWA-857",
     "sfomuseum:flight_number": [
-      "WN857", 
+      "WN857",
       "SWA857"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1578467087, 
-      85922583, 
-      85633793, 
-      1159396337, 
-      102191575, 
-      102087579, 
+      102527513,
+      85922583,
+      85633793,
+      1159396337,
+      102191575,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578467087,
-    "wof:lastmodified": 1582743216,
+    "wof:lastmodified": 1717012311,
     "wof:name": "SWA857 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578690969,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-11-01",
+    "date:cessation_upper": "2010-11-30",
+    "date:inception_lower": "2010-11-26",
+    "date:inception_upper": "2010-11-26",
     "edtf:cessation": "2010-11-26~",
     "edtf:inception": "2010-11-26T06:58:23",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20101126-D-UAL-144",
     "sfomuseum:flight_number": [
-      "UA144", 
+      "UA144",
       "UAL144"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      102087579, 
-      85922583, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      1578690969
+      85688637,
+      85633793,
+      102087579,
+      85922583,
+      1159396337,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582745509,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578690969,
-    "wof:lastmodified": 1582745509,
+    "wof:lastmodified": 1717012326,
     "wof:name": "UAL144 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578658379,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-11-01",
+    "date:cessation_upper": "2010-11-30",
+    "date:inception_lower": "2010-11-01",
+    "date:inception_upper": "2010-11-01",
     "edtf:cessation": "2010-11-01~",
     "edtf:inception": "2010-11-01T17:43:26",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20101101-D-UAL-220",
     "sfomuseum:flight_number": [
-      "UA220", 
+      "UA220",
       "UAL220"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102527513, 
-      102191575, 
-      102087579, 
-      85633793, 
-      85688637, 
-      1578658379, 
+      1159396337,
+      102527513,
+      102191575,
+      102087579,
+      85633793,
+      85688637,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578658379,
-    "wof:lastmodified": 1582745158,
+    "wof:lastmodified": 1717012329,
     "wof:name": "UAL220 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}

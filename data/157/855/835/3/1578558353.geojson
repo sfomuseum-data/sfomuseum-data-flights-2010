@@ -2,6 +2,10 @@
   "id": 1578558353,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-08-22",
+    "date:cessation_upper": "2010-08-22",
+    "date:inception_lower": "2010-08-01",
+    "date:inception_upper": "2010-08-31",
     "edtf:cessation": "2010-08-22T11:53:24",
     "edtf:inception": "2010-08-22~",
     "flysfo:airline": "WS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102554473,
     "sfomuseum:flight_id": "20100822-A-WJA-1424",
     "sfomuseum:flight_number": [
-      "WS1424", 
+      "WS1424",
       "WJA1424"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1578558353, 
-      85922583, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1159396337, 
+      102191575,
+      85922583,
+      102527513,
+      85633793,
+      102087579,
+      1159396337,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578558353,
-    "wof:lastmodified": 1582744117,
+    "wof:lastmodified": 1717012320,
     "wof:name": "WJA1424 (YEG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -113.584752, 
+    -122.370943,
+    37.61799,
+    -113.584752,
     53.308108
   ],
   "geometry": {"coordinates":[[-113.584752,53.308108],[-122.370943,37.61799]],"type":"MultiPoint"}

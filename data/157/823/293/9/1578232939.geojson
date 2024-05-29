@@ -2,6 +2,10 @@
   "id": 1578232939,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-01-01",
+    "date:cessation_upper": "2010-01-31",
+    "date:inception_lower": "2010-01-06",
+    "date:inception_upper": "2010-01-06",
     "edtf:cessation": "2010-01-06~",
     "edtf:inception": "2010-01-06T08:40:32",
     "flysfo:airline": "NW",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100106-D-NWA-2526",
     "sfomuseum:flight_number": [
-      "NW2526", 
+      "NW2526",
       "NWA2526"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      102527513, 
-      85922583, 
-      1159396337, 
-      85633793, 
-      102087579, 
-      1578232939
+      85688637,
+      102191575,
+      102527513,
+      85922583,
+      1159396337,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582741166,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578232939,
-    "wof:lastmodified": 1582741166,
+    "wof:lastmodified": 1717012290,
     "wof:name": "NWA2526 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}

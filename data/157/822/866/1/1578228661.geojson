@@ -2,6 +2,10 @@
   "id": 1578228661,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-01-01",
+    "date:cessation_upper": "2010-01-31",
+    "date:inception_lower": "2010-01-03",
+    "date:inception_upper": "2010-01-03",
     "edtf:cessation": "2010-01-03~",
     "edtf:inception": "2010-01-03T00:02:54",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100103-D-DAL-1600",
     "sfomuseum:flight_number": [
-      "DL1600", 
+      "DL1600",
       "DAL1600"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1159396337, 
-      102191575, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1578228661
+      85922583,
+      85688637,
+      1159396337,
+      102191575,
+      102527513,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582741127,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578228661,
-    "wof:lastmodified": 1582741127,
+    "wof:lastmodified": 1717012289,
     "wof:name": "DAL1600 (SFO-CVG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -84.657144, 
+    -122.370943,
+    37.61799,
+    -84.657144,
     39.054422
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.657144,39.054422]],"type":"MultiPoint"}

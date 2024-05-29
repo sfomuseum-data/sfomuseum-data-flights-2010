@@ -2,6 +2,10 @@
   "id": 1578707697,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-12-01",
+    "date:cessation_upper": "2010-12-31",
+    "date:inception_lower": "2010-12-08",
+    "date:inception_upper": "2010-12-08",
     "edtf:cessation": "2010-12-08~",
     "edtf:inception": "2010-12-08T17:01:47",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20101208-D-SWA-411",
     "sfomuseum:flight_number": [
-      "WN411", 
+      "WN411",
       "SWA411"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102087579, 
-      102191575, 
-      1578707697
+      1159396337,
+      85633793,
+      85922583,
+      85688637,
+      102527513,
+      102087579,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582745679,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578707697,
-    "wof:lastmodified": 1582745679,
+    "wof:lastmodified": 1717012333,
     "wof:name": "SWA411 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

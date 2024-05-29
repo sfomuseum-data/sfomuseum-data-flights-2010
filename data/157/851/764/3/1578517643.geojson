@@ -2,6 +2,10 @@
   "id": 1578517643,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-07-25",
+    "date:cessation_upper": "2010-07-25",
+    "date:inception_lower": "2010-07-01",
+    "date:inception_upper": "2010-07-31",
     "edtf:cessation": "2010-07-25T17:35:19",
     "edtf:inception": "2010-07-25~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534097,
     "sfomuseum:flight_id": "20100725-A-COA-370",
     "sfomuseum:flight_number": [
-      "CO370", 
+      "CO370",
       "COA370"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102527513, 
-      102087579, 
-      1578517643, 
-      85633793, 
-      85688637, 
-      102191575, 
+      1159396337,
+      102527513,
+      102087579,
+      85633793,
+      85688637,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578517643,
-    "wof:lastmodified": 1582743706,
+    "wof:lastmodified": 1717012318,
     "wof:name": "COA370 (IAH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-95.338444,29.977186],[-122.370943,37.61799]],"type":"MultiPoint"}

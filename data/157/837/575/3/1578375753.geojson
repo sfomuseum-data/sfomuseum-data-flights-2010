@@ -2,6 +2,10 @@
   "id": 1578375753,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-04-01",
+    "date:cessation_upper": "2010-04-30",
+    "date:inception_lower": "2010-04-27",
+    "date:inception_upper": "2010-04-27",
     "edtf:cessation": "2010-04-27~",
     "edtf:inception": "2010-04-27T00:48:41",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100427-D-AAL-430",
     "sfomuseum:flight_number": [
-      "AA430", 
+      "AA430",
       "AAL430"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85688637, 
-      1159396337, 
-      102191575, 
-      85922583, 
-      102527513, 
-      1578375753
+      85633793,
+      102087579,
+      85688637,
+      1159396337,
+      102191575,
+      85922583,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582742481,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578375753,
-    "wof:lastmodified": 1582742481,
+    "wof:lastmodified": 1717012303,
     "wof:name": "AAL430 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}

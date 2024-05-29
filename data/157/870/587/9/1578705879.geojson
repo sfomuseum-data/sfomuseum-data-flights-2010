@@ -2,6 +2,10 @@
   "id": 1578705879,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-12-01",
+    "date:cessation_upper": "2010-12-31",
+    "date:inception_lower": "2010-12-07",
+    "date:inception_upper": "2010-12-07",
     "edtf:cessation": "2010-12-07~",
     "edtf:inception": "2010-12-07T10:03:28",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20101207-D-UAL-805",
     "sfomuseum:flight_number": [
-      "UA805", 
+      "UA805",
       "UAL805"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      1578705879
+      85633793,
+      85922583,
+      102087579,
+      85688637,
+      1159396337,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582745660,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578705879,
-    "wof:lastmodified": 1582745660,
+    "wof:lastmodified": 1717012331,
     "wof:name": "UAL805 (SFO-SJD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-109.717461,23.160962]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578724651,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-12-01",
+    "date:cessation_upper": "2010-12-31",
+    "date:inception_lower": "2010-12-21",
+    "date:inception_upper": "2010-12-21",
     "edtf:cessation": "2010-12-21~",
     "edtf:inception": "2010-12-21T13:51:55",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20101221-D-COA-93",
     "sfomuseum:flight_number": [
-      "CO93", 
+      "CO93",
       "COA93"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1578724651, 
-      1159396337, 
-      102527513, 
-      85633793, 
-      102191575, 
-      85922583, 
+      102087579,
+      1159396337,
+      102527513,
+      85633793,
+      102191575,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578724651,
-    "wof:lastmodified": 1582745862,
+    "wof:lastmodified": 1717012335,
     "wof:name": "COA93 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}

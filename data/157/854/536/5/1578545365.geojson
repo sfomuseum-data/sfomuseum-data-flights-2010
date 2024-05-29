@@ -2,6 +2,10 @@
   "id": 1578545365,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-08-13",
+    "date:cessation_upper": "2010-08-13",
+    "date:inception_lower": "2010-08-01",
+    "date:inception_upper": "2010-08-31",
     "edtf:cessation": "2010-08-13T13:10:10",
     "edtf:inception": "2010-08-13~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20100813-A-UAL-900",
     "sfomuseum:flight_number": [
-      "UA900", 
+      "UA900",
       "UAL900"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1578545365, 
-      85688637, 
-      85633793, 
+      1159396337,
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578545365,
-    "wof:lastmodified": 1582743985,
+    "wof:lastmodified": 1717012317,
     "wof:name": "UAL900 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

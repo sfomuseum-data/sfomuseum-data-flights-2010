@@ -2,6 +2,10 @@
   "id": 1578309883,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-03-07",
+    "date:cessation_upper": "2010-03-07",
+    "date:inception_lower": "2010-03-01",
+    "date:inception_upper": "2010-03-31",
     "edtf:cessation": "2010-03-07T23:04:42",
     "edtf:inception": "2010-03-07~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20100307-A-UAL-712",
     "sfomuseum:flight_number": [
-      "UA712", 
+      "UA712",
       "UAL712"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      1578309883, 
-      85922583, 
-      85688637, 
-      102191575, 
-      1159396337, 
+      102527513,
+      85633793,
+      85922583,
+      85688637,
+      102191575,
+      1159396337,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578309883,
-    "wof:lastmodified": 1582741864,
+    "wof:lastmodified": 1717012302,
     "wof:name": "UAL712 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

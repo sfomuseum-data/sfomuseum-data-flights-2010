@@ -2,6 +2,10 @@
   "id": 1578266861,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-02-01",
+    "date:cessation_upper": "2010-02-28",
+    "date:inception_lower": "2010-02-01",
+    "date:inception_upper": "2010-02-01",
     "edtf:cessation": "2010-02-01~",
     "edtf:inception": "2010-02-01T19:11:29",
     "flysfo:airline": "G4",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100201-D-AAY-6015",
     "sfomuseum:flight_number": [
-      "G46015", 
+      "G46015",
       "AAY6015"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1578266861, 
-      85922583, 
-      102087579, 
+      1159396337,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578266861,
-    "wof:lastmodified": 1582741470,
+    "wof:lastmodified": 1717012295,
     "wof:name": "AAY6015 (SFO-SMX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.900038, 
-    -120.444687, 
+    -122.370943,
+    34.900038,
+    -120.444687,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-120.444687,34.900038]],"type":"MultiPoint"}

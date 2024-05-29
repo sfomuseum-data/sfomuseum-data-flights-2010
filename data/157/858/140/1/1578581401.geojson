@@ -2,6 +2,10 @@
   "id": 1578581401,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-09-01",
+    "date:cessation_upper": "2010-09-30",
+    "date:inception_lower": "2010-09-07",
+    "date:inception_upper": "2010-09-07",
     "edtf:cessation": "2010-09-07~",
     "edtf:inception": "2010-09-07T13:39:27",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100907-D-DAL-2334",
     "sfomuseum:flight_number": [
-      "DL2334", 
+      "DL2334",
       "DAL2334"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      85922583, 
-      85633793, 
-      1578581401, 
-      102527513, 
-      102191575, 
+      85688637,
+      102087579,
+      85922583,
+      85633793,
+      102527513,
+      102191575,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578581401,
-    "wof:lastmodified": 1582744355,
+    "wof:lastmodified": 1717012316,
     "wof:name": "DAL2334 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}

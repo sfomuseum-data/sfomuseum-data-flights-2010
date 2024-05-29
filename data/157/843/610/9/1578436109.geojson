@@ -2,6 +2,10 @@
   "id": 1578436109,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-05-01",
+    "date:cessation_upper": "2010-05-31",
+    "date:inception_lower": "2010-05-30",
+    "date:inception_upper": "2010-05-30",
     "edtf:cessation": "2010-05-30~",
     "edtf:inception": "2010-05-30T13:31:49",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100530-D-UAL-176",
     "sfomuseum:flight_number": [
-      "UA176", 
+      "UA176",
       "UAL176"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1578436109, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1159396337, 
+      85633793,
+      85922583,
+      85688637,
+      102527513,
+      102087579,
+      1159396337,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578436109,
-    "wof:lastmodified": 1582742923,
+    "wof:lastmodified": 1717012308,
     "wof:name": "UAL176 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}

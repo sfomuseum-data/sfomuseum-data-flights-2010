@@ -2,6 +2,10 @@
   "id": 1578500681,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-07-01",
+    "date:cessation_upper": "2010-07-31",
+    "date:inception_lower": "2010-07-14",
+    "date:inception_upper": "2010-07-14",
     "edtf:cessation": "2010-07-14~",
     "edtf:inception": "2010-07-14T06:34:10",
     "flysfo:airline": "HP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100714-D-AWE-648",
     "sfomuseum:flight_number": [
-      "HP648", 
+      "HP648",
       "AWE648"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1578500681, 
-      85922583, 
-      102527513, 
-      102191575, 
-      102087579, 
-      85688637, 
+      85633793,
+      85922583,
+      102527513,
+      102191575,
+      102087579,
+      85688637,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578500681,
-    "wof:lastmodified": 1582743540,
+    "wof:lastmodified": 1717012307,
     "wof:name": "AWE648 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}

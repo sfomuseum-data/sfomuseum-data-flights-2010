@@ -2,6 +2,10 @@
   "id": 1578588887,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-09-12",
+    "date:cessation_upper": "2010-09-12",
+    "date:inception_lower": "2010-09-01",
+    "date:inception_upper": "2010-09-30",
     "edtf:cessation": "2010-09-12T21:29:57",
     "edtf:inception": "2010-09-12~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527185,
     "sfomuseum:flight_id": "20100912-A-DAL-2351",
     "sfomuseum:flight_number": [
-      "DL2351", 
+      "DL2351",
       "DAL2351"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102087579, 
-      102527513, 
-      1159396337, 
-      85688637, 
-      102191575, 
-      1578588887
+      85633793,
+      85922583,
+      102087579,
+      102527513,
+      1159396337,
+      85688637,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582744440,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578588887,
-    "wof:lastmodified": 1582744440,
+    "wof:lastmodified": 1717012323,
     "wof:name": "DAL2351 (MEM-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.04889, 
-    -89.981998, 
+    -122.370943,
+    35.04889,
+    -89.981998,
     37.61799
   ],
   "geometry": {"coordinates":[[-89.981998,35.04889],[-122.370943,37.61799]],"type":"MultiPoint"}

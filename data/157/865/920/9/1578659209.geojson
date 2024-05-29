@@ -2,6 +2,10 @@
   "id": 1578659209,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-11-02",
+    "date:cessation_upper": "2010-11-02",
+    "date:inception_lower": "2010-11-01",
+    "date:inception_upper": "2010-11-30",
     "edtf:cessation": "2010-11-02T10:53:35",
     "edtf:inception": "2010-11-02~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20101102-A-AAL-183",
     "sfomuseum:flight_number": [
-      "AA183", 
+      "AA183",
       "AAL183"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      85633793, 
-      1578659209, 
-      102087579, 
-      85688637, 
-      1159396337, 
+      85922583,
+      102527513,
+      85633793,
+      102087579,
+      85688637,
+      1159396337,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578659209,
-    "wof:lastmodified": 1582745168,
+    "wof:lastmodified": 1717012330,
     "wof:name": "AAL183 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

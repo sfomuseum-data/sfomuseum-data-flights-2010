@@ -2,6 +2,10 @@
   "id": 1578554617,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-08-01",
+    "date:cessation_upper": "2010-08-31",
+    "date:inception_lower": "2010-08-19",
+    "date:inception_upper": "2010-08-19",
     "edtf:cessation": "2010-08-19~",
     "edtf:inception": "2010-08-19T19:05:04",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100819-D-SWA-565",
     "sfomuseum:flight_number": [
-      "WN565", 
+      "WN565",
       "SWA565"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      85922583, 
-      1159396337, 
-      1578554617, 
-      85688637, 
-      102191575, 
+      102087579,
+      102527513,
+      85922583,
+      1159396337,
+      85688637,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578554617,
-    "wof:lastmodified": 1582744079,
+    "wof:lastmodified": 1717012316,
     "wof:name": "SWA565 (SFO-SNA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}

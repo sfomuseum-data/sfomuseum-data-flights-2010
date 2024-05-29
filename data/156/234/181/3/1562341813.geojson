@@ -2,6 +2,10 @@
   "id": 1562341813,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-12-01",
+    "date:cessation_upper": "2010-12-31",
+    "date:inception_lower": "2010-12-06",
+    "date:inception_upper": "2010-12-06",
     "edtf:cessation": "2010-12-06~",
     "edtf:inception": "2010-12-06T15:31:29",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20101206-D-SWA-2720",
     "sfomuseum:flight_number": [
-      "WN2720", 
+      "WN2720",
       "SWA2720"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85688637, 
-      1562341813, 
-      85922583, 
-      85633793, 
-      1159396337, 
+      102191575,
+      102087579,
+      85688637,
+      85922583,
+      85633793,
+      1159396337,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562341813,
-    "wof:lastmodified": 1582745649,
+    "wof:lastmodified": 1717012334,
     "wof:name": "SWA2720 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}

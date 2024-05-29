@@ -2,6 +2,10 @@
   "id": 1578265925,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-02-01",
+    "date:cessation_upper": "2010-02-28",
+    "date:inception_lower": "2010-02-01",
+    "date:inception_upper": "2010-02-01",
     "edtf:cessation": "2010-02-01~",
     "edtf:inception": "2010-02-01T07:20:22",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100201-D-SWA-301",
     "sfomuseum:flight_number": [
-      "WN301", 
+      "WN301",
       "SWA301"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      102087579, 
-      1578265925, 
-      102191575, 
-      85922583, 
-      1159396337, 
+      102527513,
+      85633793,
+      102087579,
+      102191575,
+      85922583,
+      1159396337,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578265925,
-    "wof:lastmodified": 1582741462,
+    "wof:lastmodified": 1717012295,
     "wof:name": "SWA301 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

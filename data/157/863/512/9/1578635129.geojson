@@ -2,6 +2,10 @@
   "id": 1578635129,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-10-15",
+    "date:cessation_upper": "2010-10-15",
+    "date:inception_lower": "2010-10-01",
+    "date:inception_upper": "2010-10-31",
     "edtf:cessation": "2010-10-15T21:56:50",
     "edtf:inception": "2010-10-15~",
     "flysfo:airline": "",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527671,
     "sfomuseum:flight_id": "20101015-A-ABX-1820",
     "sfomuseum:flight_number": [
-      "1820", 
+      "1820",
       "ABX1820"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85633793, 
-      1578635129, 
-      85688637, 
+      85922583,
+      102527513,
+      102087579,
+      102191575,
+      85633793,
+      85688637,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578635129,
-    "wof:lastmodified": 1582744917,
+    "wof:lastmodified": 1717012326,
     "wof:name": "ABX1820 (BFI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.301589, 
+    -122.370943,
+    37.61799,
+    -122.301589,
     47.536582
   ],
   "geometry": {"coordinates":[[-122.301589,47.536582],[-122.370943,37.61799]],"type":"MultiPoint"}

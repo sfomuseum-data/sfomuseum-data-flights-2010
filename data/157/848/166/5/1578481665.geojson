@@ -2,6 +2,10 @@
   "id": 1578481665,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-06-30",
+    "date:cessation_upper": "2010-06-30",
+    "date:inception_lower": "2010-06-01",
+    "date:inception_upper": "2010-06-30",
     "edtf:cessation": "2010-06-30T20:09:27",
     "edtf:inception": "2010-06-30~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528591,
     "sfomuseum:flight_id": "20100630-A-AAL-9647",
     "sfomuseum:flight_number": [
-      "AA9647", 
+      "AA9647",
       "AAL9647"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      1159396337, 
-      85633793, 
-      102191575, 
-      102527513, 
-      85922583, 
-      1578481665
+      102087579,
+      85688637,
+      1159396337,
+      85633793,
+      102191575,
+      102527513,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1582743355,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578481665,
-    "wof:lastmodified": 1582743355,
+    "wof:lastmodified": 1717012307,
     "wof:name": "AAL9647 (AFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.986694, 
-    -97.316095, 
+    -122.370943,
+    32.986694,
+    -97.316095,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.316095,32.986694],[-122.370943,37.61799]],"type":"MultiPoint"}

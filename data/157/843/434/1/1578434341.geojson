@@ -2,6 +2,10 @@
   "id": 1578434341,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-05-29",
+    "date:cessation_upper": "2010-05-29",
+    "date:inception_lower": "2010-05-01",
+    "date:inception_upper": "2010-05-31",
     "edtf:cessation": "2010-05-29T06:44:37",
     "edtf:inception": "2010-05-29~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20100529-A-UAL-662",
     "sfomuseum:flight_number": [
-      "UA662", 
+      "UA662",
       "UAL662"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      85688637, 
-      85633793, 
-      1159396337, 
-      102527513, 
-      1578434341, 
+      102191575,
+      85922583,
+      85688637,
+      85633793,
+      1159396337,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578434341,
-    "wof:lastmodified": 1582742907,
+    "wof:lastmodified": 1717012307,
     "wof:name": "UAL662 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

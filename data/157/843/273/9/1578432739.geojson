@@ -2,6 +2,10 @@
   "id": 1578432739,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-05-27",
+    "date:cessation_upper": "2010-05-27",
+    "date:inception_lower": "2010-05-01",
+    "date:inception_upper": "2010-05-31",
     "edtf:cessation": "2010-05-27T23:48:01",
     "edtf:inception": "2010-05-27~",
     "flysfo:airline": "HP",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20100527-A-AWE-419",
     "sfomuseum:flight_number": [
-      "HP419", 
+      "HP419",
       "AWE419"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85688637, 
-      102087579, 
-      85922583, 
-      1159396337, 
-      1578432739
+      102527513,
+      102191575,
+      85633793,
+      85688637,
+      102087579,
+      85922583,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582742892,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578432739,
-    "wof:lastmodified": 1582742892,
+    "wof:lastmodified": 1717012305,
     "wof:name": "AWE419 (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

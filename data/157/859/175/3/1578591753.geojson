@@ -2,6 +2,10 @@
   "id": 1578591753,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-09-14",
+    "date:cessation_upper": "2010-09-14",
+    "date:inception_lower": "2010-09-01",
+    "date:inception_upper": "2010-09-30",
     "edtf:cessation": "2010-09-14T21:31:06",
     "edtf:inception": "2010-09-14~",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528985,
     "sfomuseum:flight_id": "20100914-A-JBU-937",
     "sfomuseum:flight_number": [
-      "B6937", 
+      "B6937",
       "JBU937"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1159396337, 
-      85633793, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1578591753, 
+      102527513,
+      1159396337,
+      85633793,
+      85688637,
+      102191575,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578591753,
-    "wof:lastmodified": 1582744469,
+    "wof:lastmodified": 1717012317,
     "wof:name": "JBU937 (LGB-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.814039, 
-    -118.148993, 
+    -122.370943,
+    33.814039,
+    -118.148993,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.148993,33.814039],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578418495,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-05-17",
+    "date:cessation_upper": "2010-05-17",
+    "date:inception_lower": "2010-05-01",
+    "date:inception_upper": "2010-05-31",
     "edtf:cessation": "2010-05-17T19:27:37",
     "edtf:inception": "2010-05-17~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20100517-A-AAL-1953",
     "sfomuseum:flight_number": [
-      "AA1953", 
+      "AA1953",
       "AAL1953"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102527513, 
-      102087579, 
-      85633793, 
-      1159396337, 
-      1578418495, 
+      85922583,
+      85688637,
+      102527513,
+      102087579,
+      85633793,
+      1159396337,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578418495,
-    "wof:lastmodified": 1582742748,
+    "wof:lastmodified": 1717012309,
     "wof:name": "AAL1953 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

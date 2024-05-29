@@ -2,6 +2,10 @@
   "id": 1578266391,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-02-01",
+    "date:cessation_upper": "2010-02-28",
+    "date:inception_lower": "2010-02-01",
+    "date:inception_upper": "2010-02-01",
     "edtf:cessation": "2010-02-01~",
     "edtf:inception": "2010-02-01T12:29:01",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100201-D-DAL-2360",
     "sfomuseum:flight_number": [
-      "DL2360", 
+      "DL2360",
       "DAL2360"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1159396337, 
-      85633793, 
-      102191575, 
-      1578266391
+      85922583,
+      85688637,
+      102527513,
+      102087579,
+      1159396337,
+      85633793,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582741466,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578266391,
-    "wof:lastmodified": 1582741466,
+    "wof:lastmodified": 1717012295,
     "wof:name": "DAL2360 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578262591,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-01-01",
+    "date:cessation_upper": "2010-01-31",
+    "date:inception_lower": "2010-01-29",
+    "date:inception_upper": "2010-01-29",
     "edtf:cessation": "2010-01-29~",
     "edtf:inception": "2010-01-29T11:54:25",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100129-D-UAL-854",
     "sfomuseum:flight_number": [
-      "UA854", 
+      "UA854",
       "UAL854"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102087579, 
-      85922583, 
-      85633793, 
-      85688637, 
-      102527513, 
-      102191575, 
-      1578262591
+      1159396337,
+      102087579,
+      85922583,
+      85633793,
+      85688637,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582741431,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578262591,
-    "wof:lastmodified": 1582741431,
+    "wof:lastmodified": 1717012292,
     "wof:name": "UAL854 (SFO-YYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -79.628342, 
+    -122.370943,
+    37.61799,
+    -79.628342,
     43.676352
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-79.628342,43.676352]],"type":"MultiPoint"}

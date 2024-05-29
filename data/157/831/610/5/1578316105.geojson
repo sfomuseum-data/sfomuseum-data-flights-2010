@@ -2,6 +2,10 @@
   "id": 1578316105,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-03-12",
+    "date:cessation_upper": "2010-03-12",
+    "date:inception_lower": "2010-03-01",
+    "date:inception_upper": "2010-03-31",
     "edtf:cessation": "2010-03-12T16:35:44",
     "edtf:inception": "2010-03-12~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533591,
     "sfomuseum:flight_id": "20100312-A-ASA-313",
     "sfomuseum:flight_number": [
-      "AS313", 
+      "AS313",
       "ASA313"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      85633793, 
-      102087579, 
-      102191575, 
-      85688637, 
-      1159396337, 
-      1578316105
+      102527513,
+      85922583,
+      85633793,
+      102087579,
+      102191575,
+      85688637,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582741930,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578316105,
-    "wof:lastmodified": 1582741930,
+    "wof:lastmodified": 1717012300,
     "wof:name": "ASA313 (PSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.824619, 
-    -116.506042, 
+    -122.370943,
+    33.824619,
+    -116.506042,
     37.61799
   ],
   "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}

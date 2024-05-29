@@ -2,6 +2,10 @@
   "id": 1578586943,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-09-01",
+    "date:cessation_upper": "2010-09-30",
+    "date:inception_lower": "2010-09-11",
+    "date:inception_upper": "2010-09-11",
     "edtf:cessation": "2010-09-11~",
     "edtf:inception": "2010-09-11T12:11:42",
     "flysfo:airline": "HP",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100911-D-AWE-145",
     "sfomuseum:flight_number": [
-      "HP145", 
+      "HP145",
       "AWE145"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85688637, 
-      102191575, 
-      1159396337, 
-      85922583, 
-      102087579, 
-      1578586943
+      102527513,
+      85633793,
+      85688637,
+      102191575,
+      1159396337,
+      85922583,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582744417,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578586943,
-    "wof:lastmodified": 1582744417,
+    "wof:lastmodified": 1717012321,
     "wof:name": "AWE145 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}

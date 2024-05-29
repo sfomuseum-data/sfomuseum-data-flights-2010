@@ -2,6 +2,10 @@
   "id": 1578494591,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-07-01",
+    "date:cessation_upper": "2010-07-31",
+    "date:inception_lower": "2010-07-09",
+    "date:inception_upper": "2010-07-09",
     "edtf:cessation": "2010-07-09~",
     "edtf:inception": "2010-07-09T20:32:26",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100709-D-ASA-726",
     "sfomuseum:flight_number": [
-      "AS726", 
+      "AS726",
       "ASA726"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1159396337, 
-      102191575, 
-      85688637, 
-      102527513, 
-      102087579, 
-      85922583, 
-      1578494591
+      85633793,
+      1159396337,
+      102191575,
+      85688637,
+      102527513,
+      102087579,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1582743480,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578494591,
-    "wof:lastmodified": 1582743480,
+    "wof:lastmodified": 1717012310,
     "wof:name": "ASA726 (SFO-PSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.824619, 
-    -116.506042, 
+    -122.370943,
+    33.824619,
+    -116.506042,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-116.506042,33.824619]],"type":"MultiPoint"}

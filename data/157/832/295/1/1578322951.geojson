@@ -2,6 +2,10 @@
   "id": 1578322951,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-03-01",
+    "date:cessation_upper": "2010-03-31",
+    "date:inception_lower": "2010-03-17",
+    "date:inception_upper": "2010-03-17",
     "edtf:cessation": "2010-03-17~",
     "edtf:inception": "2010-03-17T22:23:32",
     "flysfo:airline": "PR",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100317-D-PAL-105",
     "sfomuseum:flight_number": [
-      "PR105", 
+      "PR105",
       "PAL105"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102087579, 
-      85922583, 
-      85633793, 
-      1578322951, 
-      85688637, 
-      102191575, 
+      1159396337,
+      102087579,
+      85922583,
+      85633793,
+      85688637,
+      102191575,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578322951,
-    "wof:lastmodified": 1582741991,
+    "wof:lastmodified": 1717012298,
     "wof:name": "PAL105 (SFO-GUM)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    13.483889, 
-    144.797222, 
+    -122.370943,
+    13.483889,
+    144.797222,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[144.797222,13.483889]],"type":"MultiPoint"}

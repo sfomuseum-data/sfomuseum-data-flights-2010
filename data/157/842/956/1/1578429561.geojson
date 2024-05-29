@@ -2,6 +2,10 @@
   "id": 1578429561,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-05-01",
+    "date:cessation_upper": "2010-05-31",
+    "date:inception_lower": "2010-05-25",
+    "date:inception_upper": "2010-05-25",
     "edtf:cessation": "2010-05-25~",
     "edtf:inception": "2010-05-25T18:51:05",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100525-D-AAL-1117",
     "sfomuseum:flight_number": [
-      "AA1117", 
+      "AA1117",
       "AAL1117"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1578429561, 
-      85688637, 
-      102191575, 
-      102087579, 
-      85922583, 
-      1159396337, 
+      85633793,
+      85688637,
+      102191575,
+      102087579,
+      85922583,
+      1159396337,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578429561,
-    "wof:lastmodified": 1582742863,
+    "wof:lastmodified": 1717012311,
     "wof:name": "AAL1117 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}

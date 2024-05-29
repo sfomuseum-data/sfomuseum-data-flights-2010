@@ -2,6 +2,10 @@
   "id": 1578229887,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-01-03",
+    "date:cessation_upper": "2010-01-03",
+    "date:inception_lower": "2010-01-01",
+    "date:inception_upper": "2010-01-31",
     "edtf:cessation": "2010-01-03T21:29:39",
     "edtf:inception": "2010-01-03~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20100103-A-SWA-1542",
     "sfomuseum:flight_number": [
-      "WN1542", 
+      "WN1542",
       "SWA1542"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102087579, 
-      1159396337, 
-      102527513, 
-      1578229887
+      102191575,
+      85633793,
+      85922583,
+      85688637,
+      102087579,
+      1159396337,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582741138,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578229887,
-    "wof:lastmodified": 1582741138,
+    "wof:lastmodified": 1717012290,
     "wof:name": "SWA1542 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

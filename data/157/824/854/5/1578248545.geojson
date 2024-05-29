@@ -2,6 +2,10 @@
   "id": 1578248545,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-01-18",
+    "date:cessation_upper": "2010-01-18",
+    "date:inception_lower": "2010-01-01",
+    "date:inception_upper": "2010-01-31",
     "edtf:cessation": "2010-01-18T07:41:03",
     "edtf:inception": "2010-01-18~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102556451,
     "sfomuseum:flight_id": "20100118-A-UAL-892",
     "sfomuseum:flight_number": [
-      "UA892", 
+      "UA892",
       "UAL892"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85922583, 
-      85688637, 
-      102527513, 
-      1578248545, 
-      102087579, 
-      102191575, 
+      1159396337,
+      85922583,
+      85688637,
+      102527513,
+      102087579,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578248545,
-    "wof:lastmodified": 1582741304,
+    "wof:lastmodified": 1717012294,
     "wof:name": "UAL892 (ICN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.453966, 
-    126.661632, 
+    -122.370943,
+    37.453966,
+    126.661632,
     37.61799
   ],
   "geometry": {"coordinates":[[126.661632,37.453966],[-122.370943,37.61799]],"type":"MultiPoint"}

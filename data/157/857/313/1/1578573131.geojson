@@ -2,6 +2,10 @@
   "id": 1578573131,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-09-01",
+    "date:cessation_upper": "2010-09-01",
+    "date:inception_lower": "2010-09-01",
+    "date:inception_upper": "2010-09-30",
     "edtf:cessation": "2010-09-01T14:35:46",
     "edtf:inception": "2010-09-01~",
     "flysfo:airline": "HA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20100901-A-HAL-7",
     "sfomuseum:flight_number": [
-      "HA7", 
+      "HA7",
       "HAL7"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      1578573131, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102087579, 
-      102191575, 
+      1159396337,
+      85633793,
+      85922583,
+      85688637,
+      102087579,
+      102191575,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578573131,
-    "wof:lastmodified": 1582744271,
+    "wof:lastmodified": 1717012317,
     "wof:name": "HAL7 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

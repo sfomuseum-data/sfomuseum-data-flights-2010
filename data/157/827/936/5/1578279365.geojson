@@ -2,6 +2,10 @@
   "id": 1578279365,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-02-01",
+    "date:cessation_upper": "2010-02-28",
+    "date:inception_lower": "2010-02-11",
+    "date:inception_upper": "2010-02-11",
     "edtf:cessation": "2010-02-11~",
     "edtf:inception": "2010-02-11T23:10:14",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100211-D-DAL-2288",
     "sfomuseum:flight_number": [
-      "DL2288", 
+      "DL2288",
       "DAL2288"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1578279365, 
-      85688637, 
-      1159396337, 
-      102087579, 
-      102527513, 
-      102191575, 
+      85633793,
+      85688637,
+      1159396337,
+      102087579,
+      102527513,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578279365,
-    "wof:lastmodified": 1582741588,
+    "wof:lastmodified": 1717012298,
     "wof:name": "DAL2288 (SFO-DTW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.351709, 
+    -122.370943,
+    37.61799,
+    -83.351709,
     42.21886
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-83.351709,42.21886]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578393307,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-05-07",
+    "date:cessation_upper": "2010-05-07",
+    "date:inception_lower": "2010-05-01",
+    "date:inception_upper": "2010-05-31",
     "edtf:cessation": "2010-05-07T01:38:11",
     "edtf:inception": "2010-05-07~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527671,
     "sfomuseum:flight_id": "20100507-A-COA-1911",
     "sfomuseum:flight_number": [
-      "CO1911", 
+      "CO1911",
       "COA1911"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1578393307, 
-      85922583, 
-      85688637, 
-      85633793, 
-      1159396337, 
-      102087579, 
+      102527513,
+      85922583,
+      85688637,
+      85633793,
+      1159396337,
+      102087579,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578393307,
-    "wof:lastmodified": 1582742608,
+    "wof:lastmodified": 1717012301,
     "wof:name": "COA1911 (BFI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.301589, 
+    -122.370943,
+    37.61799,
+    -122.301589,
     47.536582
   ],
   "geometry": {"coordinates":[[-122.301589,47.536582],[-122.370943,37.61799]],"type":"MultiPoint"}

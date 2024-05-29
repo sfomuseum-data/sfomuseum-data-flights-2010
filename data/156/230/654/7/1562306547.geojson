@@ -2,6 +2,10 @@
   "id": 1562306547,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-03-28",
+    "date:cessation_upper": "2010-03-28",
+    "date:inception_lower": "2010-03-01",
+    "date:inception_upper": "2010-03-31",
     "edtf:cessation": "2010-03-28T21:09:16",
     "edtf:inception": "2010-03-28~",
     "flysfo:airline": "MX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102536481,
     "sfomuseum:flight_id": "20100328-A-MXA-978",
     "sfomuseum:flight_number": [
-      "MX978", 
+      "MX978",
       "MXA978"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      85633793, 
-      102087579, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      1562306547
+      85922583,
+      85688637,
+      85633793,
+      102087579,
+      1159396337,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582742122,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562306547,
-    "wof:lastmodified": 1582742122,
+    "wof:lastmodified": 1717012293,
     "wof:name": "MXA978 (PVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    20.660734, 
-    -105.250456, 
+    -122.370943,
+    20.660734,
+    -105.250456,
     37.61799
   ],
   "geometry": {"coordinates":[[-105.250456,20.660734],[-122.370943,37.61799]],"type":"MultiPoint"}

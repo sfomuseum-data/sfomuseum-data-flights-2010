@@ -2,6 +2,10 @@
   "id": 1578619687,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-10-04",
+    "date:cessation_upper": "2010-10-04",
+    "date:inception_lower": "2010-10-01",
+    "date:inception_upper": "2010-10-31",
     "edtf:cessation": "2010-10-04T23:21:11",
     "edtf:inception": "2010-10-04~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20101004-A-SWA-870",
     "sfomuseum:flight_number": [
-      "WN870", 
+      "WN870",
       "SWA870"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1578619687, 
-      85922583, 
-      1159396337, 
-      102527513, 
-      102087579, 
-      102191575, 
+      85688637,
+      85922583,
+      1159396337,
+      102527513,
+      102087579,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578619687,
-    "wof:lastmodified": 1582744757,
+    "wof:lastmodified": 1717012329,
     "wof:name": "SWA870 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

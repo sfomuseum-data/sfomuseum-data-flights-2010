@@ -2,6 +2,10 @@
   "id": 1578574965,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-09-02",
+    "date:cessation_upper": "2010-09-02",
+    "date:inception_lower": "2010-09-01",
+    "date:inception_upper": "2010-09-30",
     "edtf:cessation": "2010-09-02T19:57:37",
     "edtf:inception": "2010-09-02~",
     "flysfo:airline": "F9",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20100902-A-FFT-655",
     "sfomuseum:flight_number": [
-      "F9655", 
+      "F9655",
       "FFT655"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396337, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85922583, 
-      1578574965, 
+      85688637,
+      1159396337,
+      102527513,
+      102087579,
+      102191575,
+      85922583,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578574965,
-    "wof:lastmodified": 1582744289,
+    "wof:lastmodified": 1717012319,
     "wof:name": "FFT655 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

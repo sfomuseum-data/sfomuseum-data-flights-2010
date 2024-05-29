@@ -2,6 +2,10 @@
   "id": 1578700457,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-12-03",
+    "date:cessation_upper": "2010-12-03",
+    "date:inception_lower": "2010-12-01",
+    "date:inception_upper": "2010-12-31",
     "edtf:cessation": "2010-12-03T07:51:24",
     "edtf:inception": "2010-12-03~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20101203-A-UAL-73L",
     "sfomuseum:flight_number": [
-      "UA73L", 
+      "UA73L",
       "UAL73L"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      1159396337, 
-      102527513, 
-      85688637, 
-      1578700457
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      1159396337,
+      102527513,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582745602,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578700457,
-    "wof:lastmodified": 1582745602,
+    "wof:lastmodified": 1717012326,
     "wof:name": "UAL73L (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

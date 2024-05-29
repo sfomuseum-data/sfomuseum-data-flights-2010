@@ -2,6 +2,10 @@
   "id": 1578360709,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-04-15",
+    "date:cessation_upper": "2010-04-15",
+    "date:inception_lower": "2010-04-01",
+    "date:inception_upper": "2010-04-30",
     "edtf:cessation": "2010-04-15T17:30:46",
     "edtf:inception": "2010-04-15~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20100415-A-SWA-898",
     "sfomuseum:flight_number": [
-      "WN898", 
+      "WN898",
       "SWA898"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102087579, 
-      85688637, 
-      102527513, 
-      102191575, 
-      1578360709, 
-      85922583, 
+      1159396337,
+      102087579,
+      85688637,
+      102527513,
+      102191575,
+      85922583,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578360709,
-    "wof:lastmodified": 1582742336,
+    "wof:lastmodified": 1717012298,
     "wof:name": "SWA898 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

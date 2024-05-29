@@ -2,6 +2,10 @@
   "id": 1578328149,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-03-21",
+    "date:cessation_upper": "2010-03-21",
+    "date:inception_lower": "2010-03-01",
+    "date:inception_upper": "2010-03-31",
     "edtf:cessation": "2010-03-21T23:35:34",
     "edtf:inception": "2010-03-21~",
     "flysfo:airline": "CI",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102551487,
     "sfomuseum:flight_id": "20100321-A-CAL-5108",
     "sfomuseum:flight_number": [
-      "CI5108", 
+      "CI5108",
       "CAL5108"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102191575, 
-      102527513, 
-      1578328149, 
-      1159396337, 
-      85922583, 
-      85688637, 
+      85633793,
+      102191575,
+      102527513,
+      1159396337,
+      85922583,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578328149,
-    "wof:lastmodified": 1582742042,
+    "wof:lastmodified": 1717012302,
     "wof:name": "CAL5108 (TPE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.078566, 
-    121.233152, 
+    -122.370943,
+    25.078566,
+    121.233152,
     37.61799
   ],
   "geometry": {"coordinates":[[121.233152,25.078566],[-122.370943,37.61799]],"type":"MultiPoint"}

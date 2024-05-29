@@ -2,6 +2,10 @@
   "id": 1578258313,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-01-01",
+    "date:cessation_upper": "2010-01-31",
+    "date:inception_lower": "2010-01-26",
+    "date:inception_upper": "2010-01-26",
     "edtf:cessation": "2010-01-26~",
     "edtf:inception": "2010-01-26T06:39:27",
     "flysfo:airline": "NW",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100126-D-NWA-2204",
     "sfomuseum:flight_number": [
-      "NW2204", 
+      "NW2204",
       "NWA2204"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      1578258313, 
-      85922583, 
-      1159396337, 
-      102191575, 
-      85633793, 
+      85688637,
+      102527513,
+      85922583,
+      1159396337,
+      102191575,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578258313,
-    "wof:lastmodified": 1582741390,
+    "wof:lastmodified": 1717012296,
     "wof:name": "NWA2204 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}

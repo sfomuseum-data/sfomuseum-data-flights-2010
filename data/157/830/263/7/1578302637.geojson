@@ -2,6 +2,10 @@
   "id": 1578302637,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-03-02",
+    "date:cessation_upper": "2010-03-02",
+    "date:inception_lower": "2010-03-01",
+    "date:inception_upper": "2010-03-31",
     "edtf:cessation": "2010-03-02T10:52:42",
     "edtf:inception": "2010-03-02~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528187,
     "sfomuseum:flight_id": "20100302-A-DAL-1129",
     "sfomuseum:flight_number": [
-      "DL1129", 
+      "DL1129",
       "DAL1129"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1578302637, 
-      85633793, 
-      1159396337, 
-      102087579, 
-      102527513, 
-      102191575, 
-      85922583, 
+      85633793,
+      1159396337,
+      102087579,
+      102527513,
+      102191575,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578302637,
-    "wof:lastmodified": 1582741799,
+    "wof:lastmodified": 1717012296,
     "wof:name": "DAL1129 (CVG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -84.657144, 
+    -122.370943,
+    37.61799,
+    -84.657144,
     39.054422
   ],
   "geometry": {"coordinates":[[-84.657144,39.054422],[-122.370943,37.61799]],"type":"MultiPoint"}

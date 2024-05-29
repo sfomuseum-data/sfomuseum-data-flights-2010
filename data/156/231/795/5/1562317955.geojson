@@ -2,6 +2,10 @@
   "id": 1562317955,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-06-20",
+    "date:cessation_upper": "2010-06-20",
+    "date:inception_lower": "2010-06-01",
+    "date:inception_upper": "2010-06-30",
     "edtf:cessation": "2010-06-20T11:38:19",
     "edtf:inception": "2010-06-20~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20100620-A-UAL-546",
     "sfomuseum:flight_number": [
-      "UA546", 
+      "UA546",
       "UAL546"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1562317955, 
-      85688637, 
-      1159396337, 
-      85922583, 
-      102527513, 
-      102191575, 
-      102087579, 
+      85688637,
+      1159396337,
+      85922583,
+      102527513,
+      102191575,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562317955,
-    "wof:lastmodified": 1582743209,
+    "wof:lastmodified": 1717012294,
     "wof:name": "UAL546 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

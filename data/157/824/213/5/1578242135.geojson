@@ -2,6 +2,10 @@
   "id": 1578242135,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-01-13",
+    "date:cessation_upper": "2010-01-13",
+    "date:inception_lower": "2010-01-01",
+    "date:inception_upper": "2010-01-31",
     "edtf:cessation": "2010-01-13T07:24:02",
     "edtf:inception": "2010-01-13~",
     "flysfo:airline": "NW",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102541685,
     "sfomuseum:flight_id": "20100113-A-NWA-634",
     "sfomuseum:flight_number": [
-      "NW634", 
+      "NW634",
       "NWA634"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1578242135, 
-      102087579, 
-      85633793, 
-      85688637, 
-      85922583, 
-      102191575, 
+      102527513,
+      102087579,
+      85633793,
+      85688637,
+      85922583,
+      102191575,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578242135,
-    "wof:lastmodified": 1582741248,
+    "wof:lastmodified": 1717012289,
     "wof:name": "NWA634 (NRT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.755744, 
-    140.395257, 
+    -122.370943,
+    35.755744,
+    140.395257,
     37.61799
   ],
   "geometry": {"coordinates":[[140.395257,35.755744],[-122.370943,37.61799]],"type":"MultiPoint"}

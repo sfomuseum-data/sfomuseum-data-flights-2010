@@ -2,6 +2,10 @@
   "id": 1578623771,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-10-07",
+    "date:cessation_upper": "2010-10-07",
+    "date:inception_lower": "2010-10-01",
+    "date:inception_upper": "2010-10-31",
     "edtf:cessation": "2010-10-07T21:01:34",
     "edtf:inception": "2010-10-07~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102525961,
     "sfomuseum:flight_id": "20101007-A-UAL-807",
     "sfomuseum:flight_number": [
-      "UA807", 
+      "UA807",
       "UAL807"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      85922583, 
-      85688637, 
-      1159396337, 
-      85633793, 
-      102527513, 
-      1578623771
+      102087579,
+      102191575,
+      85922583,
+      85688637,
+      1159396337,
+      85633793,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582744799,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578623771,
-    "wof:lastmodified": 1582744799,
+    "wof:lastmodified": 1717012324,
     "wof:name": "UAL807 (STL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -90.367632, 
+    -122.370943,
+    37.61799,
+    -90.367632,
     38.743872
   ],
   "geometry": {"coordinates":[[-90.367632,38.743872],[-122.370943,37.61799]],"type":"MultiPoint"}

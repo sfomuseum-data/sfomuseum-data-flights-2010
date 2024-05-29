@@ -2,6 +2,10 @@
   "id": 1578335195,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-03-27",
+    "date:cessation_upper": "2010-03-27",
+    "date:inception_lower": "2010-03-01",
+    "date:inception_upper": "2010-03-31",
     "edtf:cessation": "2010-03-27T10:26:18",
     "edtf:inception": "2010-03-27~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531023,
     "sfomuseum:flight_id": "20100327-A-AAL-431",
     "sfomuseum:flight_number": [
-      "AA431", 
+      "AA431",
       "AAL431"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102191575, 
-      102087579, 
-      1159396337, 
-      102527513, 
-      1578335195, 
-      85633793, 
+      85922583,
+      102191575,
+      102087579,
+      1159396337,
+      102527513,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578335195,
-    "wof:lastmodified": 1582742106,
+    "wof:lastmodified": 1717012299,
     "wof:name": "AAL431 (MIA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.79047, 
-    -80.296006, 
+    -122.370943,
+    25.79047,
+    -80.296006,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.296006,25.79047],[-122.370943,37.61799]],"type":"MultiPoint"}

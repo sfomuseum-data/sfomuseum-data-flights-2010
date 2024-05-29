@@ -2,6 +2,10 @@
   "id": 1578278993,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-02-11",
+    "date:cessation_upper": "2010-02-11",
+    "date:inception_lower": "2010-02-01",
+    "date:inception_upper": "2010-02-28",
     "edtf:cessation": "2010-02-11T17:33:13",
     "edtf:inception": "2010-02-11~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102536481,
     "sfomuseum:flight_id": "20100211-A-UAL-878",
     "sfomuseum:flight_number": [
-      "UA878", 
+      "UA878",
       "UAL878"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      102087579, 
-      85688637, 
-      1578278993
+      85922583,
+      85633793,
+      1159396337,
+      102527513,
+      102191575,
+      102087579,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582741584,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578278993,
-    "wof:lastmodified": 1582741584,
+    "wof:lastmodified": 1717012298,
     "wof:name": "UAL878 (PVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    20.660734, 
-    -105.250456, 
+    -122.370943,
+    20.660734,
+    -105.250456,
     37.61799
   ],
   "geometry": {"coordinates":[[-105.250456,20.660734],[-122.370943,37.61799]],"type":"MultiPoint"}

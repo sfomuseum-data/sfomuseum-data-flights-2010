@@ -2,6 +2,10 @@
   "id": 1578477475,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-06-27",
+    "date:cessation_upper": "2010-06-27",
+    "date:inception_lower": "2010-06-01",
+    "date:inception_upper": "2010-06-30",
     "edtf:cessation": "2010-06-27T23:41:23",
     "edtf:inception": "2010-06-27~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528817,
     "sfomuseum:flight_id": "20100627-A-UAL-196",
     "sfomuseum:flight_number": [
-      "UA196", 
+      "UA196",
       "UAL196"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1578477475, 
-      1159396337, 
-      85922583, 
-      85688637, 
-      102191575, 
-      102087579, 
-      102527513, 
+      1159396337,
+      85922583,
+      85688637,
+      102191575,
+      102087579,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578477475,
-    "wof:lastmodified": 1582743315,
+    "wof:lastmodified": 1717012312,
     "wof:name": "UAL196 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}

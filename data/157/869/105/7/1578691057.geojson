@@ -2,6 +2,10 @@
   "id": 1578691057,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-11-01",
+    "date:cessation_upper": "2010-11-30",
+    "date:inception_lower": "2010-11-26",
+    "date:inception_upper": "2010-11-26",
     "edtf:cessation": "2010-11-26~",
     "edtf:inception": "2010-11-26T08:45:00",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20101126-D-UAL-134",
     "sfomuseum:flight_number": [
-      "UA134", 
+      "UA134",
       "UAL134"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85633793, 
-      1578691057, 
-      85922583, 
-      102527513, 
-      102191575, 
-      102087579, 
+      1159396337,
+      85633793,
+      85922583,
+      102527513,
+      102191575,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578691057,
-    "wof:lastmodified": 1582745510,
+    "wof:lastmodified": 1717012326,
     "wof:name": "UAL134 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}

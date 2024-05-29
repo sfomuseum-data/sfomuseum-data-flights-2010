@@ -2,6 +2,10 @@
   "id": 1578388471,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-05-06",
+    "date:cessation_upper": "2010-05-06",
+    "date:inception_lower": "2010-05-01",
+    "date:inception_upper": "2010-05-31",
     "edtf:cessation": "2010-05-06T11:56:15",
     "edtf:inception": "2010-05-06~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20100506-A-SWA-3311",
     "sfomuseum:flight_number": [
-      "WN3311", 
+      "WN3311",
       "SWA3311"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85922583, 
-      85688637, 
-      1159396337, 
-      85633793, 
-      102087579, 
-      1578388471
+      102527513,
+      102191575,
+      85922583,
+      85688637,
+      1159396337,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582742600,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578388471,
-    "wof:lastmodified": 1582742600,
+    "wof:lastmodified": 1717012306,
     "wof:name": "SWA3311 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

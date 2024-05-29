@@ -2,6 +2,10 @@
   "id": 1578538257,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-08-08",
+    "date:cessation_upper": "2010-08-08",
+    "date:inception_lower": "2010-08-01",
+    "date:inception_upper": "2010-08-31",
     "edtf:cessation": "2010-08-08T17:18:45",
     "edtf:inception": "2010-08-08~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102536441,
     "sfomuseum:flight_id": "20100808-A-ASA-225",
     "sfomuseum:flight_number": [
-      "AS225", 
+      "AS225",
       "ASA225"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1578538257, 
-      85688637, 
-      85633793, 
+      1159396337,
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578538257,
-    "wof:lastmodified": 1582743912,
+    "wof:lastmodified": 1717012319,
     "wof:name": "ASA225 (SJD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-109.717461,23.160962],[-122.370943,37.61799]],"type":"MultiPoint"}

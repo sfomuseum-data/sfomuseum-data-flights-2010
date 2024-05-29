@@ -2,6 +2,10 @@
   "id": 1578729399,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-12-01",
+    "date:cessation_upper": "2010-12-31",
+    "date:inception_lower": "2010-12-24",
+    "date:inception_upper": "2010-12-24",
     "edtf:cessation": "2010-12-24~",
     "edtf:inception": "2010-12-24T23:13:33",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20101224-D-UAL-180",
     "sfomuseum:flight_number": [
-      "UA180", 
+      "UA180",
       "UAL180"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      1578729399, 
-      1159396337, 
-      102191575, 
-      102527513, 
-      85633793, 
+      85688637,
+      102087579,
+      1159396337,
+      102191575,
+      102527513,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578729399,
-    "wof:lastmodified": 1582745914,
+    "wof:lastmodified": 1717012336,
     "wof:name": "UAL180 (SFO-BOS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-71.01475,42.362322]],"type":"MultiPoint"}

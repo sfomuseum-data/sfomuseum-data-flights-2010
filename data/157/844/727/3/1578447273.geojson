@@ -2,6 +2,10 @@
   "id": 1578447273,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-06-06",
+    "date:cessation_upper": "2010-06-06",
+    "date:inception_lower": "2010-06-01",
+    "date:inception_upper": "2010-06-30",
     "edtf:cessation": "2010-06-06T23:46:36",
     "edtf:inception": "2010-06-06~",
     "flysfo:airline": "F9",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530849,
     "sfomuseum:flight_id": "20100606-A-FFT-965",
     "sfomuseum:flight_number": [
-      "F9965", 
+      "F9965",
       "FFT965"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1578447273, 
-      85922583, 
-      1159396337, 
-      102191575, 
-      85688637, 
-      85633793, 
+      102087579,
+      85922583,
+      1159396337,
+      102191575,
+      85688637,
+      85633793,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578447273,
-    "wof:lastmodified": 1582743023,
+    "wof:lastmodified": 1717012309,
     "wof:name": "FFT965 (MKE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.896339, 
+    -122.370943,
+    37.61799,
+    -87.896339,
     42.949572
   ],
   "geometry": {"coordinates":[[-87.896339,42.949572],[-122.370943,37.61799]],"type":"MultiPoint"}

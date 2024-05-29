@@ -2,6 +2,10 @@
   "id": 1578614627,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-10-01",
+    "date:cessation_upper": "2010-10-01",
+    "date:inception_lower": "2010-10-01",
+    "date:inception_upper": "2010-10-31",
     "edtf:cessation": "2010-10-01T11:06:32",
     "edtf:inception": "2010-10-01~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20101001-A-SWA-1327",
     "sfomuseum:flight_number": [
-      "WN1327", 
+      "WN1327",
       "SWA1327"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85633793, 
-      1578614627, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
+      1159396337,
+      85633793,
+      85922583,
+      85688637,
+      102527513,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578614627,
-    "wof:lastmodified": 1582744704,
+    "wof:lastmodified": 1717012324,
     "wof:name": "SWA1327 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

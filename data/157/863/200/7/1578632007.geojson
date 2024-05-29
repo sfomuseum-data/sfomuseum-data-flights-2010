@@ -2,6 +2,10 @@
   "id": 1578632007,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-10-13",
+    "date:cessation_upper": "2010-10-13",
+    "date:inception_lower": "2010-10-01",
+    "date:inception_upper": "2010-10-31",
     "edtf:cessation": "2010-10-13T18:36:41",
     "edtf:inception": "2010-10-13~",
     "flysfo:airline": "HP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20101013-A-AWE-1437",
     "sfomuseum:flight_number": [
-      "HP1437", 
+      "HP1437",
       "AWE1437"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1159396337, 
-      102191575, 
-      102087579, 
-      1578632007, 
-      102527513, 
-      85922583, 
+      85633793,
+      1159396337,
+      102191575,
+      102087579,
+      102527513,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578632007,
-    "wof:lastmodified": 1582744883,
+    "wof:lastmodified": 1717012323,
     "wof:name": "AWE1437 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

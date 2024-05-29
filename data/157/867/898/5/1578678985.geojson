@@ -2,6 +2,10 @@
   "id": 1578678985,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-11-01",
+    "date:cessation_upper": "2010-11-30",
+    "date:inception_lower": "2010-11-17",
+    "date:inception_upper": "2010-11-17",
     "edtf:cessation": "2010-11-17~",
     "edtf:inception": "2010-11-17T00:25:31",
     "flysfo:airline": "CO",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20101117-D-COA-269",
     "sfomuseum:flight_number": [
-      "CO269", 
+      "CO269",
       "COA269"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      1159396337, 
-      85922583, 
-      85688637, 
-      102087579, 
-      102527513, 
-      1578678985
+      102191575,
+      85633793,
+      1159396337,
+      85922583,
+      85688637,
+      102087579,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582745388,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578678985,
-    "wof:lastmodified": 1582745388,
+    "wof:lastmodified": 1717012332,
     "wof:name": "COA269 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}

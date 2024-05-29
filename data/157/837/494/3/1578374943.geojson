@@ -2,6 +2,10 @@
   "id": 1578374943,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-04-26",
+    "date:cessation_upper": "2010-04-26",
+    "date:inception_lower": "2010-04-01",
+    "date:inception_upper": "2010-04-30",
     "edtf:cessation": "2010-04-26T12:29:40",
     "edtf:inception": "2010-04-26~",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528985,
     "sfomuseum:flight_id": "20100426-A-JBU-1438",
     "sfomuseum:flight_number": [
-      "B61438", 
+      "B61438",
       "JBU1438"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1159396337, 
-      85633793, 
-      1578374943, 
-      102527513, 
-      85688637, 
+      102087579,
+      85922583,
+      1159396337,
+      85633793,
+      102527513,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578374943,
-    "wof:lastmodified": 1582742473,
+    "wof:lastmodified": 1717012303,
     "wof:name": "JBU1438 (LGB-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.814039, 
-    -118.148993, 
+    -122.370943,
+    33.814039,
+    -118.148993,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.148993,33.814039],[-122.370943,37.61799]],"type":"MultiPoint"}

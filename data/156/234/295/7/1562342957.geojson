@@ -2,6 +2,10 @@
   "id": 1562342957,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-12-15",
+    "date:cessation_upper": "2010-12-15",
+    "date:inception_lower": "2010-12-01",
+    "date:inception_upper": "2010-12-31",
     "edtf:cessation": "2010-12-15T11:14:03",
     "edtf:inception": "2010-12-15~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534097,
     "sfomuseum:flight_id": "20101215-A-COA-170",
     "sfomuseum:flight_number": [
-      "CO170", 
+      "CO170",
       "COA170"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      1562342957, 
-      85922583, 
-      102087579, 
-      85688637, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562342957,
-    "wof:lastmodified": 1582745771,
+    "wof:lastmodified": 1717012288,
     "wof:name": "COA170 (IAH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-95.338444,29.977186],[-122.370943,37.61799]],"type":"MultiPoint"}

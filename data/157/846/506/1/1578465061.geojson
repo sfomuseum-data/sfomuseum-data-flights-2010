@@ -2,6 +2,10 @@
   "id": 1578465061,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-06-19",
+    "date:cessation_upper": "2010-06-19",
+    "date:inception_lower": "2010-06-01",
+    "date:inception_upper": "2010-06-30",
     "edtf:cessation": "2010-06-19T12:12:00",
     "edtf:inception": "2010-06-19~",
     "flysfo:airline": "CX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102541737,
     "sfomuseum:flight_id": "20100619-A-CPA-870",
     "sfomuseum:flight_number": [
-      "CX870", 
+      "CX870",
       "CPA870"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85633793, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
-      1578465061
+      1159396337,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582743196,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578465061,
-    "wof:lastmodified": 1582743196,
+    "wof:lastmodified": 1717012310,
     "wof:name": "CPA870 (HKG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    22.307471, 
-    113.927436, 
+    -122.370943,
+    22.307471,
+    113.927436,
     37.61799
   ],
   "geometry": {"coordinates":[[113.927436,22.307471],[-122.370943,37.61799]],"type":"MultiPoint"}

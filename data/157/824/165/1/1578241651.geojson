@@ -2,6 +2,10 @@
   "id": 1578241651,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-01-12",
+    "date:cessation_upper": "2010-01-12",
+    "date:inception_lower": "2010-01-01",
+    "date:inception_upper": "2010-01-31",
     "edtf:cessation": "2010-01-12T18:00:06",
     "edtf:inception": "2010-01-12~",
     "flysfo:airline": "NW",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525635,
     "sfomuseum:flight_id": "20100112-A-NWA-2353",
     "sfomuseum:flight_number": [
-      "NW2353", 
+      "NW2353",
       "NWA2353"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159396337, 
-      85633793, 
-      1578241651, 
-      85688637, 
-      85922583, 
-      102527513, 
+      102087579,
+      1159396337,
+      85633793,
+      85688637,
+      85922583,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578241651,
-    "wof:lastmodified": 1582741244,
+    "wof:lastmodified": 1717012289,
     "wof:name": "NWA2353 (DTW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.351709, 
+    -122.370943,
+    37.61799,
+    -83.351709,
     42.21886
   ],
   "geometry": {"coordinates":[[-83.351709,42.21886],[-122.370943,37.61799]],"type":"MultiPoint"}

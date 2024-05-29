@@ -2,6 +2,10 @@
   "id": 1578656051,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-10-30",
+    "date:cessation_upper": "2010-10-30",
+    "date:inception_lower": "2010-10-01",
+    "date:inception_upper": "2010-10-31",
     "edtf:cessation": "2010-10-30T23:23:41",
     "edtf:inception": "2010-10-30~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527529,
     "sfomuseum:flight_id": "20101030-A-VRD-6008",
     "sfomuseum:flight_number": [
-      "VX6008", 
+      "VX6008",
       "VRD6008"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102191575, 
-      85633793, 
-      102527513, 
-      102087579, 
-      1159396337, 
-      85688637, 
-      1578656051
+      85922583,
+      102191575,
+      85633793,
+      102527513,
+      102087579,
+      1159396337,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582745134,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578656051,
-    "wof:lastmodified": 1582745134,
+    "wof:lastmodified": 1717012327,
     "wof:name": "VRD6008 (SJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.363728, 
-    -121.928755, 
+    -122.370943,
+    37.363728,
+    -121.928755,
     37.61799
   ],
   "geometry": {"coordinates":[[-121.928755,37.363728],[-122.370943,37.61799]],"type":"MultiPoint"}

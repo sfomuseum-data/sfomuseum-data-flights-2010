@@ -2,6 +2,10 @@
   "id": 1578605507,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-09-01",
+    "date:cessation_upper": "2010-09-30",
+    "date:inception_lower": "2010-09-24",
+    "date:inception_upper": "2010-09-24",
     "edtf:cessation": "2010-09-24~",
     "edtf:inception": "2010-09-24T17:50:06",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100924-D-SWA-3846",
     "sfomuseum:flight_number": [
-      "WN3846", 
+      "WN3846",
       "SWA3846"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      102087579, 
-      85633793, 
-      1578605507
+      102191575,
+      85922583,
+      85688637,
+      1159396337,
+      102527513,
+      102087579,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582744610,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578605507,
-    "wof:lastmodified": 1582744610,
+    "wof:lastmodified": 1717012321,
     "wof:name": "SWA3846 (SFO-MDW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578524287,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-07-30",
+    "date:cessation_upper": "2010-07-30",
+    "date:inception_lower": "2010-07-01",
+    "date:inception_upper": "2010-07-31",
     "edtf:cessation": "2010-07-30T08:07:17",
     "edtf:inception": "2010-07-30~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528541,
     "sfomuseum:flight_id": "20100730-A-UAL-837",
     "sfomuseum:flight_number": [
-      "UA837", 
+      "UA837",
       "UAL837"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1578524287, 
-      1159396337, 
-      102527513, 
+      85922583,
+      85688637,
+      102191575,
+      102087579,
+      1159396337,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578524287,
-    "wof:lastmodified": 1582743769,
+    "wof:lastmodified": 1717012315,
     "wof:name": "UAL837 (DFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578228415,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-01-02",
+    "date:cessation_upper": "2010-01-02",
+    "date:inception_lower": "2010-01-01",
+    "date:inception_upper": "2010-01-31",
     "edtf:cessation": "2010-01-02T20:02:17",
     "edtf:inception": "2010-01-02~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20100102-A-SWA-5383",
     "sfomuseum:flight_number": [
-      "WN5383", 
+      "WN5383",
       "SWA5383"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      102087579, 
-      85633793, 
-      102191575, 
-      1578228415, 
-      85688637, 
+      102527513,
+      85922583,
+      102087579,
+      85633793,
+      102191575,
+      85688637,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578228415,
-    "wof:lastmodified": 1582741124,
+    "wof:lastmodified": 1717012289,
     "wof:name": "SWA5383 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

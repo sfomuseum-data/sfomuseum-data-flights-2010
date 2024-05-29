@@ -2,6 +2,10 @@
   "id": 1578634831,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-10-15",
+    "date:cessation_upper": "2010-10-15",
+    "date:inception_lower": "2010-10-01",
+    "date:inception_upper": "2010-10-31",
     "edtf:cessation": "2010-10-15T17:58:56",
     "edtf:inception": "2010-10-15~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20101015-A-UAL-170",
     "sfomuseum:flight_number": [
-      "UA170", 
+      "UA170",
       "UAL170"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1578634831, 
-      85922583, 
-      102087579, 
-      102191575, 
-      85633793, 
-      1159396337, 
+      85688637,
+      85922583,
+      102087579,
+      102191575,
+      85633793,
+      1159396337,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578634831,
-    "wof:lastmodified": 1582744914,
+    "wof:lastmodified": 1717012325,
     "wof:name": "UAL170 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

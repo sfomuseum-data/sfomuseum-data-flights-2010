@@ -2,6 +2,10 @@
   "id": 1562309715,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-04-21",
+    "date:cessation_upper": "2010-04-21",
+    "date:inception_lower": "2010-04-01",
+    "date:inception_upper": "2010-04-30",
     "edtf:cessation": "2010-04-21T18:58:40",
     "edtf:inception": "2010-04-21~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20100421-A-VRD-965",
     "sfomuseum:flight_number": [
-      "VX965", 
+      "VX965",
       "VRD965"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      85922583, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1562309715
+      85688637,
+      102087579,
+      85922583,
+      1159396337,
+      102527513,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582742411,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562309715,
-    "wof:lastmodified": 1582742411,
+    "wof:lastmodified": 1717012295,
     "wof:name": "VRD965 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

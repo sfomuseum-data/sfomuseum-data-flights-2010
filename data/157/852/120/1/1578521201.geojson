@@ -2,6 +2,10 @@
   "id": 1578521201,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-07-01",
+    "date:cessation_upper": "2010-07-31",
+    "date:inception_lower": "2010-07-28",
+    "date:inception_upper": "2010-07-28",
     "edtf:cessation": "2010-07-28~",
     "edtf:inception": "2010-07-28T07:06:45",
     "flysfo:airline": "FL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100728-D-TRS-32",
     "sfomuseum:flight_number": [
-      "FL32", 
+      "FL32",
       "TRS32"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1578521201, 
+      85688637,
+      85633793,
+      1159396337,
+      102527513,
+      102191575,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578521201,
-    "wof:lastmodified": 1582743741,
+    "wof:lastmodified": 1717012312,
     "wof:name": "TRS32 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}

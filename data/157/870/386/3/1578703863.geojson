@@ -2,6 +2,10 @@
   "id": 1578703863,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-12-01",
+    "date:cessation_upper": "2010-12-31",
+    "date:inception_lower": "2010-12-05",
+    "date:inception_upper": "2010-12-05",
     "edtf:cessation": "2010-12-05~",
     "edtf:inception": "2010-12-05T20:15:52",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20101205-D-UAL-599",
     "sfomuseum:flight_number": [
-      "UA599", 
+      "UA599",
       "UAL599"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      1578703863, 
-      102191575, 
-      85633793, 
+      102087579,
+      85688637,
+      1159396337,
+      102527513,
+      102191575,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578703863,
-    "wof:lastmodified": 1582745637,
+    "wof:lastmodified": 1717012329,
     "wof:name": "UAL599 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578646569,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-10-01",
+    "date:cessation_upper": "2010-10-31",
+    "date:inception_lower": "2010-10-24",
+    "date:inception_upper": "2010-10-24",
     "edtf:cessation": "2010-10-24~",
     "edtf:inception": "2010-10-24T10:13:25",
     "flysfo:airline": "HP",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20101024-D-AWE-1490",
     "sfomuseum:flight_number": [
-      "HP1490", 
+      "HP1490",
       "AWE1490"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      102527513, 
-      85633793, 
-      85688637, 
-      1159396337, 
-      102191575, 
-      1578646569
+      102087579,
+      85922583,
+      102527513,
+      85633793,
+      85688637,
+      1159396337,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582745035,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578646569,
-    "wof:lastmodified": 1582745035,
+    "wof:lastmodified": 1717012327,
     "wof:name": "AWE1490 (SFO-CLT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.942777,35.220744]],"type":"MultiPoint"}

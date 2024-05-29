@@ -2,6 +2,10 @@
   "id": 1578236579,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-01-08",
+    "date:cessation_upper": "2010-01-08",
+    "date:inception_lower": "2010-01-01",
+    "date:inception_upper": "2010-01-31",
     "edtf:cessation": "2010-01-08T20:36:46",
     "edtf:inception": "2010-01-08~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20100108-A-SWA-3236",
     "sfomuseum:flight_number": [
-      "WN3236", 
+      "WN3236",
       "SWA3236"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      1578236579, 
-      85922583, 
-      102087579, 
-      102191575, 
-      1159396337, 
+      85688637,
+      102527513,
+      85922583,
+      102087579,
+      102191575,
+      1159396337,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578236579,
-    "wof:lastmodified": 1582741200,
+    "wof:lastmodified": 1717012293,
     "wof:name": "SWA3236 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

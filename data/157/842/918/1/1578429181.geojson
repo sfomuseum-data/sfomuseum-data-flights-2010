@@ -2,6 +2,10 @@
   "id": 1578429181,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-05-25",
+    "date:cessation_upper": "2010-05-25",
+    "date:inception_lower": "2010-05-01",
+    "date:inception_upper": "2010-05-31",
     "edtf:cessation": "2010-05-25T13:25:25",
     "edtf:inception": "2010-05-25~",
     "flysfo:airline": "HP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20100525-A-AWE-1455",
     "sfomuseum:flight_number": [
-      "HP1455", 
+      "HP1455",
       "AWE1455"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      1578429181, 
+      85633793,
+      102087579,
+      85688637,
+      1159396337,
+      102527513,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578429181,
-    "wof:lastmodified": 1582742859,
+    "wof:lastmodified": 1717012311,
     "wof:name": "AWE1455 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

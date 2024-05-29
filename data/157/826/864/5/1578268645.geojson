@@ -2,6 +2,10 @@
   "id": 1578268645,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-02-03",
+    "date:cessation_upper": "2010-02-03",
+    "date:inception_lower": "2010-02-01",
+    "date:inception_upper": "2010-02-28",
     "edtf:cessation": "2010-02-03T09:21:36",
     "edtf:inception": "2010-02-03~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20100203-A-UAL-889L",
     "sfomuseum:flight_number": [
-      "UA889L", 
+      "UA889L",
       "UAL889L"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1159396337, 
-      102527513, 
-      85922583, 
-      102087579, 
-      85688637, 
-      85633793, 
-      1578268645
+      102191575,
+      1159396337,
+      102527513,
+      85922583,
+      102087579,
+      85688637,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582741486,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578268645,
-    "wof:lastmodified": 1582741486,
+    "wof:lastmodified": 1717012297,
     "wof:name": "UAL889L (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

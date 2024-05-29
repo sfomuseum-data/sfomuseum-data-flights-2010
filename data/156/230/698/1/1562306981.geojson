@@ -2,6 +2,10 @@
   "id": 1562306981,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-04-01",
+    "date:cessation_upper": "2010-04-01",
+    "date:inception_lower": "2010-04-01",
+    "date:inception_upper": "2010-04-30",
     "edtf:cessation": "2010-04-01T07:43:22",
     "edtf:inception": "2010-04-01~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20100401-A-SWA-1320",
     "sfomuseum:flight_number": [
-      "WN1320", 
+      "WN1320",
       "SWA1320"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396337, 
-      102191575, 
-      102527513, 
-      1562306981, 
-      85922583, 
-      85633793, 
+      85688637,
+      1159396337,
+      102191575,
+      102527513,
+      85922583,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562306981,
-    "wof:lastmodified": 1582742162,
+    "wof:lastmodified": 1717012293,
     "wof:name": "SWA1320 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1578344457,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-04-01",
+    "date:cessation_upper": "2010-04-30",
+    "date:inception_lower": "2010-04-03",
+    "date:inception_upper": "2010-04-03",
     "edtf:cessation": "2010-04-03~",
     "edtf:inception": "2010-04-03T12:15:32",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100403-D-AAL-476",
     "sfomuseum:flight_number": [
-      "AA476", 
+      "AA476",
       "AAL476"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1159396337, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1578344457
+      85633793,
+      1159396337,
+      85922583,
+      85688637,
+      102527513,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582742189,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578344457,
-    "wof:lastmodified": 1582742189,
+    "wof:lastmodified": 1717012299,
     "wof:name": "AAL476 (SFO-MIA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.79047, 
-    -80.296006, 
+    -122.370943,
+    25.79047,
+    -80.296006,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.296006,25.79047]],"type":"MultiPoint"}

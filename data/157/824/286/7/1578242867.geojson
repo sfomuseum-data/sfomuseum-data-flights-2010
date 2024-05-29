@@ -2,6 +2,10 @@
   "id": 1578242867,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-01-13",
+    "date:cessation_upper": "2010-01-13",
+    "date:inception_lower": "2010-01-01",
+    "date:inception_upper": "2010-01-31",
     "edtf:cessation": "2010-01-13T16:09:21",
     "edtf:inception": "2010-01-13~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20100113-A-UAL-435",
     "sfomuseum:flight_number": [
-      "UA435", 
+      "UA435",
       "UAL435"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85688637, 
-      102527513, 
-      85922583, 
-      1159396337, 
-      85633793, 
-      102087579, 
-      1578242867
+      102191575,
+      85688637,
+      102527513,
+      85922583,
+      1159396337,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582741255,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578242867,
-    "wof:lastmodified": 1582741255,
+    "wof:lastmodified": 1717012290,
     "wof:name": "UAL435 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

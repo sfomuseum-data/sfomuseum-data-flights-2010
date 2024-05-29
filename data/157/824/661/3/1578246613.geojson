@@ -2,6 +2,10 @@
   "id": 1578246613,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-01-16",
+    "date:cessation_upper": "2010-01-16",
+    "date:inception_lower": "2010-01-01",
+    "date:inception_upper": "2010-01-31",
     "edtf:cessation": "2010-01-16T13:10:44",
     "edtf:inception": "2010-01-16~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533657,
     "sfomuseum:flight_id": "20100116-A-UAL-37A",
     "sfomuseum:flight_number": [
-      "UA37A", 
+      "UA37A",
       "UAL37A"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1578246613, 
-      85688637, 
-      102527513, 
-      1159396337, 
-      102087579, 
-      85922583, 
-      102191575, 
+      85688637,
+      102527513,
+      1159396337,
+      102087579,
+      85922583,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578246613,
-    "wof:lastmodified": 1582741287,
+    "wof:lastmodified": 1717012293,
     "wof:name": "UAL37A (MCO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    28.431495, 
-    -81.307537, 
+    -122.370943,
+    28.431495,
+    -81.307537,
     37.61799
   ],
   "geometry": {"coordinates":[[-81.307537,28.431495],[-122.370943,37.61799]],"type":"MultiPoint"}

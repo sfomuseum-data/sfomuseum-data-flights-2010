@@ -2,6 +2,10 @@
   "id": 1578275101,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-02-01",
+    "date:cessation_upper": "2010-02-28",
+    "date:inception_lower": "2010-02-08",
+    "date:inception_upper": "2010-02-08",
     "edtf:cessation": "2010-02-08~",
     "edtf:inception": "2010-02-08T12:44:18",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100208-D-COA-1716",
     "sfomuseum:flight_number": [
-      "CO1716", 
+      "CO1716",
       "COA1716"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1578275101, 
-      85688637, 
-      85922583, 
-      1159396337, 
-      85633793, 
-      102191575, 
+      102087579,
+      85688637,
+      85922583,
+      1159396337,
+      85633793,
+      102191575,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578275101,
-    "wof:lastmodified": 1582741546,
+    "wof:lastmodified": 1717012295,
     "wof:name": "COA1716 (SFO-CRP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    27.775295, 
-    -97.500644, 
+    -122.370943,
+    27.775295,
+    -97.500644,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.500644,27.775295]],"type":"MultiPoint"}

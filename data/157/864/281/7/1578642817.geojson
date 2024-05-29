@@ -2,6 +2,10 @@
   "id": 1578642817,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-10-21",
+    "date:cessation_upper": "2010-10-21",
+    "date:inception_lower": "2010-10-01",
+    "date:inception_upper": "2010-10-31",
     "edtf:cessation": "2010-10-21T13:24:09",
     "edtf:inception": "2010-10-21~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20101021-A-SWA-1394",
     "sfomuseum:flight_number": [
-      "WN1394", 
+      "WN1394",
       "SWA1394"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85633793, 
-      102191575, 
-      102087579, 
-      1578642817, 
-      85922583, 
-      85688637, 
+      1159396337,
+      85633793,
+      102191575,
+      102087579,
+      85922583,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578642817,
-    "wof:lastmodified": 1582744997,
+    "wof:lastmodified": 1717012324,
     "wof:name": "SWA1394 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

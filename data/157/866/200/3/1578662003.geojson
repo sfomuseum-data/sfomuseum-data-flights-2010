@@ -2,6 +2,10 @@
   "id": 1578662003,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-11-04",
+    "date:cessation_upper": "2010-11-04",
+    "date:inception_lower": "2010-11-01",
+    "date:inception_upper": "2010-11-30",
     "edtf:cessation": "2010-11-04T11:36:47",
     "edtf:inception": "2010-11-04~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20101104-A-SWA-3145",
     "sfomuseum:flight_number": [
-      "WN3145", 
+      "WN3145",
       "SWA3145"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1578662003, 
-      102191575, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1159396337, 
+      102191575,
+      85922583,
+      85688637,
+      102527513,
+      102087579,
+      1159396337,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578662003,
-    "wof:lastmodified": 1582745202,
+    "wof:lastmodified": 1717012325,
     "wof:name": "SWA3145 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

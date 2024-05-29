@@ -2,6 +2,10 @@
   "id": 1578432181,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-05-27",
+    "date:cessation_upper": "2010-05-27",
+    "date:inception_lower": "2010-05-01",
+    "date:inception_upper": "2010-05-31",
     "edtf:cessation": "2010-05-27T16:38:00",
     "edtf:inception": "2010-05-27~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528817,
     "sfomuseum:flight_id": "20100527-A-UAL-217",
     "sfomuseum:flight_number": [
-      "UA217", 
+      "UA217",
       "UAL217"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      1578432181, 
-      1159396337, 
-      102191575, 
-      85633793, 
-      85922583, 
+      102527513,
+      85688637,
+      1159396337,
+      102191575,
+      85633793,
+      85922583,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578432181,
-    "wof:lastmodified": 1582742887,
+    "wof:lastmodified": 1717012305,
     "wof:name": "UAL217 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}

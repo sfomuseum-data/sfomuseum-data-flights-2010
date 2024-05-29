@@ -2,6 +2,10 @@
   "id": 1578635049,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-10-15",
+    "date:cessation_upper": "2010-10-15",
+    "date:inception_lower": "2010-10-01",
+    "date:inception_upper": "2010-10-31",
     "edtf:cessation": "2010-10-15T20:55:23",
     "edtf:inception": "2010-10-15~",
     "flysfo:airline": "CO",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20101015-A-COA-348",
     "sfomuseum:flight_number": [
-      "CO348", 
+      "CO348",
       "COA348"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      1159396337, 
-      85922583, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1578635049
+      102527513,
+      102087579,
+      1159396337,
+      85922583,
+      85688637,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582744916,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578635049,
-    "wof:lastmodified": 1582744916,
+    "wof:lastmodified": 1717012326,
     "wof:name": "COA348 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

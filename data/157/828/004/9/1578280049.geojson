@@ -2,6 +2,10 @@
   "id": 1578280049,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-02-12",
+    "date:cessation_upper": "2010-02-12",
+    "date:inception_lower": "2010-02-01",
+    "date:inception_upper": "2010-02-28",
     "edtf:cessation": "2010-02-12T14:00:37",
     "edtf:inception": "2010-02-12~",
     "flysfo:airline": "F9",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20100212-A-FFT-505",
     "sfomuseum:flight_number": [
-      "F9505", 
+      "F9505",
       "FFT505"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      102087579, 
-      102527513, 
-      102191575, 
-      85688637, 
-      1159396337, 
-      1578280049
+      85922583,
+      85633793,
+      102087579,
+      102527513,
+      102191575,
+      85688637,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582741600,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578280049,
-    "wof:lastmodified": 1582741600,
+    "wof:lastmodified": 1717012292,
     "wof:name": "FFT505 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

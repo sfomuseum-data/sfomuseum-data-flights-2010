@@ -2,6 +2,10 @@
   "id": 1578556243,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-08-20",
+    "date:cessation_upper": "2010-08-20",
+    "date:inception_lower": "2010-08-01",
+    "date:inception_upper": "2010-08-31",
     "edtf:cessation": "2010-08-20T20:38:22",
     "edtf:inception": "2010-08-20~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20100820-A-AAL-28",
     "sfomuseum:flight_number": [
-      "AA28", 
+      "AA28",
       "AAL28"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85922583, 
-      102191575, 
-      102087579, 
-      85688637, 
-      85633793, 
-      102527513, 
-      1578556243
+      1159396337,
+      85922583,
+      102191575,
+      102087579,
+      85688637,
+      85633793,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582744095,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578556243,
-    "wof:lastmodified": 1582744095,
+    "wof:lastmodified": 1717012318,
     "wof:name": "AAL28 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

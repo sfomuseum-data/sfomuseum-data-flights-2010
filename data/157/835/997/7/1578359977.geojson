@@ -2,6 +2,10 @@
   "id": 1578359977,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-04-01",
+    "date:cessation_upper": "2010-04-30",
+    "date:inception_lower": "2010-04-15",
+    "date:inception_upper": "2010-04-15",
     "edtf:cessation": "2010-04-15~",
     "edtf:inception": "2010-04-15T08:40:15",
     "flysfo:airline": "HP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20100415-D-AWE-964",
     "sfomuseum:flight_number": [
-      "HP964", 
+      "HP964",
       "AWE964"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85688637, 
-      1578359977, 
-      85922583, 
+      1159396337,
+      102527513,
+      102087579,
+      102191575,
+      85688637,
+      85922583,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578359977,
-    "wof:lastmodified": 1582742329,
+    "wof:lastmodified": 1717012305,
     "wof:name": "AWE964 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2010",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}
